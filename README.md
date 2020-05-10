@@ -11,21 +11,15 @@ Contributors:
 
 </pre>
 
-![coverphoto.png]()
-
-
-
-  
-
 ### Prompt:
 
 
-#### Code
+### Code
 <pre>
 GitHub Link      : <a href=Link>File Name </a>
 </pre>
 
-#### Dataset
+### Dataset
 <pre>
 Dataset Links    : <a href=Link>Dataset Description</a>
 </pre>
@@ -34,14 +28,14 @@ Dataset Links    : <a href=Link>Dataset Description</a>
 
 ### Next Steps:
 
-#### Tools / Libraries
+### Tools / Libraries
 <pre>
 Languages               : Python
 Tools/IDE               : Anaconda
 Libraries               : 
 </pre>
 
-#### Dates
+### Dates
 <pre>
 Duration                : May 2020
 Last Update             : 05.10.2020
