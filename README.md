@@ -1,4 +1,4 @@
-![title.jpg](https://github.com/a-woodbury/RxID/blob/master/Images/RxID-1.jpg)
+![title.jpg](title link)
 
 **Subtitle or Description**
 
