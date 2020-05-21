@@ -1,42 +1,73 @@
-# Project
+![title.jpg](https://github.com/a-woodbury/RxID/blob/master/Images/RxID-1.jpg)
+
+**Subtitle or Description**
+
+### Overview
+
+
+
+### Repository Navigation
 <pre>
-Domain             : 
-Sub-Domain         : 
-Techniques         : 
-Application        : 
-</pre>
-<pre>
-Contributors:
-<a href=https://github.com/a-woodbury>Alphonso Woodbury</a>
-
-</pre>
-
-### Prompt:
-
-
-### Code
-<pre>
-GitHub Link      : <a href=Link>File Name </a>
+Code               : <a href=Link>Technical Notebook </a>, <a href=Link>Modeling</a>, <a href=https://github.com/a-woodbury/RxID/blob/master/RxID15_Data_Collection.ipynb>Data Collection Notebook </a>
+Dataset Links      : <a href=Link>Dataset</a>, <a href=Link>Dataset</a>
+Presentation       : <a href=Link>Slide Deck</a>, <a href=Link>Google Slides</a>
+Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>Other</a>
 </pre>
 
-### Dataset
+### ReadME Navigation
+
+[Problem](~/README.md#problem) - 
+[Data](~/RxID#data) -
+[Model](~/RxID#model) -
+[Results](~//RxID#results) - 
+[Recommendations](~//RxID#recommendations) - 
+[Future](~/) - 
+[Project Info](~/) -
+[Works Cited](~/)
+
+## Problem
+
+<p align="center">
+  <img src=image link title="image name"/>
+</p>
+
+## Data
+
+
+
+## Model
+
+## Results
+
+### Improving the current model
+
+## Recommendations:
+
+## Future
+ 
+
+## Project Info
+
 <pre>
-Dataset Links    : <a href=Link>Dataset Description</a>
+Contributors : <a href=https://github.com/a-woodbury>Alphonso Woodbury</a>
 </pre>
 
-### Recommendations:
-
-### Next Steps:
-
-### Tools / Libraries
 <pre>
-Languages               : Python
-Tools/IDE               : Anaconda
-Libraries               : 
+Languages    : Python
+Tools/IDE    : Anaconda
+Libraries    : 
 </pre>
 
-### Dates
 <pre>
-Duration                : May 2020
-Last Update             : 05.10.2020
+Duration     : ?? 202?
+Last Update  : ??.??.20??
 </pre>
+
+<pre>
+Domain       : 
+Sub-Domain   : 
+Techniques   : 
+Application  : 
+</pre>
+
+## Works Cited
