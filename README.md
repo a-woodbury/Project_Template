@@ -1,4 +1,4 @@
-![title.jpg](title link)
+![](title link)
 
 **Subtitle or Description**
 
