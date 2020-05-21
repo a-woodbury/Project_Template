@@ -1,5 +1,3 @@
-![](title link)
-
 **Subtitle or Description**
 
 ### Overview
